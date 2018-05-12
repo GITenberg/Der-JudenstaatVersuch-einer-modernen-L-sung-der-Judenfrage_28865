@@ -1,0 +1,35 @@
+_repo: Der-JudenstaatVersuch-einer-modernen-L-sung-der-Judenfrage_28865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herzl, Theodor
+    aliases:
+    - Herzl, Binyamin Ze'ev
+    - Hertsl, Binyamin Ze'ev
+    - Hertsel, Binyamin Ze'ev
+    - Hertsel, Te'odor
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '31209'
+    url: http://www.gutenberg.org/2009/agents/31209
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Herzl
+description: ''
+gutenberg_bookshelf:
+- Judaism
+- DE Sachbuch
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28865'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Zionism'
+title: 'Der Judenstaat: Versuch einer modernen Lösung der Judenfrage'
+url: http://www.gutenberg.org/ebooks/28865
